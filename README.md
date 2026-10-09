@@ -51,12 +51,20 @@ Required permissions on your repo: Contents (read/write), Actions (read).
 
 **5. Build the app**
 
+Requires JDK 17. If your system JDK is newer, point Gradle to 17 by adding this line to `android-app/local.properties`:
+
+```
+org.gradle.java.home=/path/to/jdk-17
+```
+
+On macOS you can find available JDKs with `/usr/libexec/java_home -V`. Then build:
+
 ```bash
 cd android-app
 ./gradlew assembleDebug
 ```
 
-Requires Android 8.0+ (API 26).
+The APK lands at `app/build/outputs/apk/debug/app-debug.apk`. Install it on your Android device (API 26+).
 
 **6. Configure the app**
 

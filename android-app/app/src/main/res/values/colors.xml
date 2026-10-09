@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light palette, warm scholarly umber -->
+    <color name="md_theme_primary">#6F4E37</color>
+    <color name="md_theme_on_primary">#FFFFFF</color>
+    <color name="md_theme_primary_container">#FFDCC8</color>
+    <color name="md_theme_on_primary_container">#2A1200</color>
+    <color name="md_theme_secondary">#735848</color>
+    <color name="md_theme_on_secondary">#FFFFFF</color>
+    <color name="md_theme_secondary_container">#FFDCC8</color>
+    <color name="md_theme_on_secondary_container">#2A1200</color>
+    <color name="md_theme_surface">#FFF8F5</color>
+    <color name="md_theme_on_surface">#201A17</color>
+    <color name="md_theme_surface_variant">#F4DDD3</color>
+    <color name="md_theme_on_surface_variant">#53433D</color>
+    <color name="md_theme_outline">#857369</color>
+    <color name="md_theme_outline_variant">#D8C2BA</color>
+    <color name="md_theme_background">#FFF8F5</color>
+    <color name="md_theme_on_background">#201A17</color>
+</resources>

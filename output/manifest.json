@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-17",
+  "cards": [
+    {
+      "word": "alacrity",
+      "file": "vbm_3dca06b7_2026-10-17_01_alacrity.png",
+      "ipa": "/əˈlæk.rɪ.ti/",
+      "pos": "noun",
+      "definition": "Brisk and cheerful readiness."
+    },
+    {
+      "word": "magnanimous",
+      "file": "vbm_3dca06b7_2026-10-17_02_magnanimous.png",
+      "ipa": "/mæɡˈnæn.ɪ.məs/",
+      "pos": "adjective",
+      "definition": "Generous or forgiving, especially towards a rival or less powerful person."
+    },
+    {
+      "word": "sanguine",
+      "file": "vbm_3dca06b7_2026-10-17_03_sanguine.png",
+      "ipa": "/ˈsæŋ.ɡwɪn/",
+      "pos": "adjective",
+      "definition": "Optimistic or positive, especially in a difficult situation."
+    },
+    {
+      "word": "verity",
+      "file": "vbm_3dca06b7_2026-10-17_04_verity.png",
+      "ipa": "/ˈvɛr.ɪ.ti/",
+      "pos": "noun",
+      "definition": "A true principle or belief; something that is eternal and unchanging."
+    },
+    {
+      "word": "ephemeral",
+      "file": "vbm_3dca06b7_2026-10-17_05_ephemeral.png",
+      "ipa": "/ɪˈfɛm.ər.əl/",
+      "pos": "adjective",
+      "definition": "Lasting for a very short time; transitory."
+    }
+  ]
+}

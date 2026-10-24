@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-24",
+  "cards": [
+    {
+      "word": "austere",
+      "file": "vbm_3dca06b7_2026-10-24_01_austere.png",
+      "ipa": "/ɒˈstɪər/",
+      "pos": "adjective",
+      "definition": "Severe or strict in manner; without luxury or comfort."
+    },
+    {
+      "word": "magnanimous",
+      "file": "vbm_3dca06b7_2026-10-24_02_magnanimous.png",
+      "ipa": "/mæɡˈnæn.ɪ.məs/",
+      "pos": "adjective",
+      "definition": "Generous or forgiving, especially towards a rival or less powerful person."
+    },
+    {
+      "word": "lucid",
+      "file": "vbm_3dca06b7_2026-10-24_03_lucid.png",
+      "ipa": "/ˈluː.sɪd/",
+      "pos": "adjective",
+      "definition": "Expressed clearly; easy to understand."
+    },
+    {
+      "word": "rectitude",
+      "file": "vbm_3dca06b7_2026-10-24_04_rectitude.png",
+      "ipa": "/ˈrɛk.tɪ.tjuːd/",
+      "pos": "noun",
+      "definition": "Morally correct behavior or thinking; righteousness."
+    },
+    {
+      "word": "equanimity",
+      "file": "vbm_3dca06b7_2026-10-24_05_equanimity.png",
+      "ipa": "/ˌiː.kwəˈnɪm.ɪ.ti/",
+      "pos": "noun",
+      "definition": "Mental calmness and composure, especially in difficult situations."
+    }
+  ]
+}

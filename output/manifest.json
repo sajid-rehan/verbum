@@ -1,0 +1,40 @@
+{
+  "date": "2026-10-31",
+  "cards": [
+    {
+      "word": "prudent",
+      "file": "vbm_3dca06b7_2026-10-31_01_prudent.png",
+      "ipa": "/ˈpruː.dənt/",
+      "pos": "adjective",
+      "definition": "Acting with care and thought for the future; exercising good judgment."
+    },
+    {
+      "word": "verity",
+      "file": "vbm_3dca06b7_2026-10-31_02_verity.png",
+      "ipa": "/ˈvɛr.ɪ.ti/",
+      "pos": "noun",
+      "definition": "A true principle or belief; something that is eternal and unchanging."
+    },
+    {
+      "word": "forbear",
+      "file": "vbm_3dca06b7_2026-10-31_03_forbear.png",
+      "ipa": "/fɔːˈbeər/",
+      "pos": "verb",
+      "definition": "To restrain oneself from doing something; to refrain."
+    },
+    {
+      "word": "lucid",
+      "file": "vbm_3dca06b7_2026-10-31_04_lucid.png",
+      "ipa": "/ˈluː.sɪd/",
+      "pos": "adjective",
+      "definition": "Expressed clearly; easy to understand."
+    },
+    {
+      "word": "alacrity",
+      "file": "vbm_3dca06b7_2026-10-31_05_alacrity.png",
+      "ipa": "/əˈlæk.rɪ.ti/",
+      "pos": "noun",
+      "definition": "Brisk and cheerful readiness."
+    }
+  ]
+}

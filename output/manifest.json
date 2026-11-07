@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-07",
+  "cards": [
+    {
+      "word": "mellifluous",
+      "file": "vbm_3dca06b7_2026-11-07_01_mellifluous.png",
+      "ipa": "/mɪˈlɪf.lu.əs/",
+      "pos": "adjective",
+      "definition": "Sweet or musical; pleasant to hear."
+    },
+    {
+      "word": "equanimity",
+      "file": "vbm_3dca06b7_2026-11-07_02_equanimity.png",
+      "ipa": "/ˌiː.kwəˈnɪm.ɪ.ti/",
+      "pos": "noun",
+      "definition": "Mental calmness and composure, especially in difficult situations."
+    },
+    {
+      "word": "ephemeral",
+      "file": "vbm_3dca06b7_2026-11-07_03_ephemeral.png",
+      "ipa": "/ɪˈfɛm.ər.əl/",
+      "pos": "adjective",
+      "definition": "Lasting for a very short time; transitory."
+    },
+    {
+      "word": "sanguine",
+      "file": "vbm_3dca06b7_2026-11-07_04_sanguine.png",
+      "ipa": "/ˈsæŋ.ɡwɪn/",
+      "pos": "adjective",
+      "definition": "Optimistic or positive, especially in a difficult situation."
+    },
+    {
+      "word": "candor",
+      "file": "vbm_3dca06b7_2026-11-07_05_candor.png",
+      "ipa": "/ˈkæn.dər/",
+      "pos": "noun",
+      "definition": "The quality of being open and honest in expression; frankness."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-14",
+  "cards": [
+    {
+      "word": "prudent",
+      "file": "vbm_3dca06b7_2026-11-14_01_prudent.png",
+      "ipa": "/ˈpruː.dənt/",
+      "pos": "adjective",
+      "definition": "Acting with care and thought for the future; exercising good judgment."
+    },
+    {
+      "word": "tacit",
+      "file": "vbm_3dca06b7_2026-11-14_02_tacit.png",
+      "ipa": "/ˈtæs.ɪt/",
+      "pos": "adjective",
+      "definition": "Understood or implied without being stated explicitly."
+    },
+    {
+      "word": "magnanimous",
+      "file": "vbm_3dca06b7_2026-11-14_03_magnanimous.png",
+      "ipa": "/mæɡˈnæn.ɪ.məs/",
+      "pos": "adjective",
+      "definition": "Generous or forgiving, especially towards a rival or less powerful person."
+    },
+    {
+      "word": "pellucid",
+      "file": "vbm_3dca06b7_2026-11-14_04_pellucid.png",
+      "ipa": "/pɪˈluː.sɪd/",
+      "pos": "adjective",
+      "definition": "Translucently clear; easily understood."
+    },
+    {
+      "word": "forbear",
+      "file": "vbm_3dca06b7_2026-11-14_05_forbear.png",
+      "ipa": "/fɔːˈbeər/",
+      "pos": "verb",
+      "definition": "To restrain oneself from doing something; to refrain."
+    }
+  ]
+}

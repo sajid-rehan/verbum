@@ -1,0 +1,40 @@
+{
+  "date": "2026-11-28",
+  "cards": [
+    {
+      "word": "verity",
+      "file": "vbm_3dca06b7_2026-11-28_01_verity.png",
+      "ipa": "/ˈvɛr.ɪ.ti/",
+      "pos": "noun",
+      "definition": "A true principle or belief; something that is eternal and unchanging."
+    },
+    {
+      "word": "equanimity",
+      "file": "vbm_3dca06b7_2026-11-28_02_equanimity.png",
+      "ipa": "/ˌiː.kwəˈnɪm.ɪ.ti/",
+      "pos": "noun",
+      "definition": "Mental calmness and composure, especially in difficult situations."
+    },
+    {
+      "word": "forbear",
+      "file": "vbm_3dca06b7_2026-11-28_03_forbear.png",
+      "ipa": "/fɔːˈbeər/",
+      "pos": "verb",
+      "definition": "To restrain oneself from doing something; to refrain."
+    },
+    {
+      "word": "pellucid",
+      "file": "vbm_3dca06b7_2026-11-28_04_pellucid.png",
+      "ipa": "/pɪˈluː.sɪd/",
+      "pos": "adjective",
+      "definition": "Translucently clear; easily understood."
+    },
+    {
+      "word": "stoic",
+      "file": "vbm_3dca06b7_2026-11-28_05_stoic.png",
+      "ipa": "/ˈstəʊ.ɪk/",
+      "pos": "adjective",
+      "definition": "Enduring pain or hardship without showing feelings or complaining."
+    }
+  ]
+}
